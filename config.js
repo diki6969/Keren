@@ -3,13 +3,13 @@
 //untuk lainya saran jangan di ubah bre nanti eror
 
 //Global Owner//
-global.owner = ['6282281657946']  // isi jika perlu
-global.mods = ['6282281657946']   // isi jika perlu
-global.prems = ['6282281657946']  // isi jika perlu
+global.owner = ['6285609188523']  // isi jika perlu
+global.mods = ['6285609188523']   // isi jika perlu
+global.prems = ['6285609188523']  // isi jika perlu
 
 //Nomor Owner & payment//
 global.nameowner = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥' // isi nama kalian bebas
-global.numberowner = '6282281657946' // isi ini untuk mengendalikan bot
+global.numberowner = '6285609188523' // isi ini untuk mengendalikan bot
 global.dana = '6285609188523' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '6285609188523' // isi dengan nomor pulsa hp kalian
 global.gopay = '6285609188523'
@@ -21,8 +21,8 @@ global.web = 'https://github.com/diki6969/' //ubah jadi website lu, bisa link ig
 global.instagram = '-'
 
 //Tampilan wm Bot dan pesan bot//
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.lolkey = 'ikyy56' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'diki76' //ganti jadi apikey lu kalau expired
 global.wm = '© 𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
@@ -46,7 +46,8 @@ global.APIs = { // API Prefix
   zekais: 'http://zekais.com',
   lolhuman: 'https://api.lolhuman.xyz',
   tio: 'http://api.tiodevhost.my.id', 
-  rey: 'https://sekha.me'
+  rey: 'https://sekha.me',
+  zenz: 'https://zenzapis.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -54,7 +55,11 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://pencarikode.xyz': 'pais', 
   'https://zekais.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': '9be6f70bb666a384b9ba3d6a',
+  'https://api.dhamzxploit.my.id': 'd37372311698ed1d' ,
+  'https://api.tiodevhost.my.id': 'd37372311698ed1d' ,
+  'https://api.zeks.xyz': 'd37372311698ed1d' ,
+  'https://zenzapis.xyz': 'e07bf160d9a8'
 }
 
 //Setting Rpg//

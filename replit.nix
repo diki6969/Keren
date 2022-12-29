@@ -8,5 +8,6 @@
         pkgs.bash
         pkgs.ffmpeg
         pkgs.libwebp
+        pkgs.imagemagick
 	];
 }
