@@ -17,17 +17,17 @@ global.gopay = '6285609188523'
 //Nama Bot & Grouplink//
 global.namebot = '𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
 global.gc = 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX'
-global.web = 'https://github.com/diki6969/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = '-'
+global.web = 'https://github.com/diki6969' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://'
 
 //Tampilan wm Bot dan pesan bot//
-global.lolkey = 'ikyy56' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'diki76' //ganti jadi apikey lu kalau expired
+global.lolkey = '9be6f70bb666a384b9ba3d6a' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'e07bf160d9a8' //ganti jadi apikey lu kalau expired
 global.wm = '© 𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
-global.wm3 = '© 𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
-global.wm4 = '© 𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
+global.wm3 = '© 𝙄𝙠𝙮𝙮𝘽𝙤𝙩'
+global.wm4 = '© 𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐢'
 global.fla = 'https://api.tiodevhost.my.id/api/photooxy/harry-potter?text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -46,8 +46,7 @@ global.APIs = { // API Prefix
   zekais: 'http://zekais.com',
   lolhuman: 'https://api.lolhuman.xyz',
   tio: 'http://api.tiodevhost.my.id', 
-  rey: 'https://sekha.me',
-  zenz: 'https://zenzapis.xyz'
+  rey: 'https://sekha.me'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -56,10 +55,6 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://zekais.com': 'apikeymu',
   'https://api.lolhuman.xyz': '9be6f70bb666a384b9ba3d6a',
-  'https://api.dhamzxploit.my.id': 'd37372311698ed1d' ,
-  'https://api.tiodevhost.my.id': 'd37372311698ed1d' ,
-  'https://api.zeks.xyz': 'd37372311698ed1d' ,
-  'https://zenzapis.xyz': 'e07bf160d9a8'
 }
 
 //Setting Rpg//

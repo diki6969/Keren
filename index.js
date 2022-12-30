@@ -33,12 +33,10 @@ function start(file) {
 		if (code === 0) return;
 		fs.watchFile(args[0], () => {
 			fs.unwatchFile(args[0]);
-			start(file);
+			start("main.js");
 		});
 	});
 	
 }
 
-start('main.js');
-
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
+start("main.js");
